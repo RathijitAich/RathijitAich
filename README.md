@@ -35,7 +35,7 @@ I'm a passionate developer and machine learning enthusiast with expertise in ful
 - Building fitness and appointment management systems
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RathijitAich&show_icons=true&theme=radical)
+![RathijitAich's GitHub Statistics showing contribution stats and most used languages](https://github-readme-stats.vercel.app/api?username=RathijitAich&show_icons=true&theme=radical)
 
 ### 🏆 Featured Projects
 - 🌾 **DigiFarm** - Agricultural management platform with ML-powered disease detection
