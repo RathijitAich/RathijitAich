@@ -4,7 +4,6 @@
 I'm a passionate developer and machine learning enthusiast with expertise in full-stack development, AI/ML, and building innovative solutions across multiple domains.
 
 ### 🔭 I'm currently working on
-- **DigiFarm**: An agricultural technology platform with disease detection services using Machine Learning
 - **Machine Learning Projects**: Including tomato leaf disease detection, network intrusion detection, and fraud detection using Reinforcement Learning
 - **Full-Stack Applications**: Building scalable backends with Java and Spring Boot, and dynamic frontends with React
 
@@ -34,8 +33,6 @@ I'm a passionate developer and machine learning enthusiast with expertise in ful
 - Python for data science and ML
 - Building fitness and appointment management systems
 
-### 📊 GitHub Stats
-![RathijitAich's GitHub Statistics showing contribution stats and most used languages](https://github-readme-stats.vercel.app/api?username=RathijitAich&show_icons=true&theme=radical)
 
 ### 🏆 Featured Projects
 - 🌾 **DigiFarm** - Agricultural management platform with ML-powered disease detection
